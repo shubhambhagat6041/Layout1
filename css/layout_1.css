@@ -1,0 +1,19 @@
+.header
+{
+    min-height: 60px;
+    background-color: lightgray;
+}
+.content
+{
+    background-color: antiquewhite;
+}
+.box
+{
+    min-height: 120px; 
+    min-width: 90px;
+    background-color: lightgrey;
+    margin-left: 10px;
+    margin-top: 10px;
+    text-align: center;
+    line-height: 120px;
+}
